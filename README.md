@@ -1,2 +1,3 @@
-# generative_ai
-Diffusion models
+# Generative AI: Diffusion models
+
+

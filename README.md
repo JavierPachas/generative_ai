@@ -9,3 +9,4 @@ HuggingFace examples using diffusion model and Python (Google Colab) for
 5. Deterministic generation
 6. Audio generation based on a prompt
 
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
